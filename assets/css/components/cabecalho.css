@@ -1,0 +1,7 @@
+header, footer {
+  position: relative;
+  background: linear-gradient(180deg, #4caf50, #a5d6a7);
+  padding: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}

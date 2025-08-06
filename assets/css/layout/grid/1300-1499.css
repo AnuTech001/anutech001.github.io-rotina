@@ -1,0 +1,27 @@
+@media (min-width: 1300px) and (max-width: 1499px) {
+  h1 {
+    font-size: 2.375rem; /* equivale a 38px */
+  }
+
+  p {
+    font-size: 1.625rem; /* equivale a 26px */
+  }
+
+  .estilo-texto,
+  .container,
+  .container-secao {
+    margin: 0 0.875rem; /* equivale a 14px */
+  }
+
+  .versao {
+    padding: 1rem; /* equivale a 16px */
+  }
+
+  .versao h1 {
+    font-size: 1.625rem; /* equivale a 26px */
+  }
+
+  .versao p {
+    font-size: 1.375rem; /* equivale a 22px */
+  }
+}

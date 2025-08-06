@@ -1,0 +1,21 @@
+.card {
+  flex: 1 1 31.25rem; /* equivale a 500px */
+  padding: 2rem; /* equivale a 32px */
+  max-width: auto;
+  margin: 0 1rem; /* equivale a 16px */
+  height: auto;
+  box-sizing: border-box;
+  border: 2px solid #4caf50;
+  border-radius: 6.25rem; /* equivale a 100px */
+  background-color: rgba(0, 255, 0, 0.3);
+}
+
+.container-secao {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 2.5rem; /* equivale a 40px */
+  flex-wrap: wrap;
+  margin-top: 1.25rem; /* equivale a 20px */
+  padding: 1.25rem; /* equivale a 20px */
+}
