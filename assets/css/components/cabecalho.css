@@ -5,3 +5,7 @@ header, footer {
   width: 100%;
   box-sizing: border-box;
 }
+
+.footer {
+  background: linear-gradient(180deg, #a5d6a7, #4caf50);
+}
