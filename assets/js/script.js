@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadHTML("cabecalho", "components/cabecalho.html"),
     loadHTML("saudacao-inicial", "components/saudacao-inicial.html"),
     loadHTML("rotina", "components/rotina.html"),
+    loadHTML("curiosidades", "components/curiosidades.html"),
     loadHTML("rodape", "components/rodape.html"),
   ])
     .then(() => {

@@ -19,3 +19,9 @@
   margin-top: 1.25rem; /* equivale a 20px */
   padding: 1.25rem; /* equivale a 20px */
 }
+
+hr {
+  margin: 1rem 0; /* equivale a 16px */
+  border: none;
+  border-top: blue solid 0.125rem; /* equivale a 2px */
+}

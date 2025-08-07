@@ -19,6 +19,10 @@ ul {
   display: block;
 }
 
+p {
+  margin: 0;
+}
+
 span {
   font-size: 1.2rem;
   font-style: italic;
